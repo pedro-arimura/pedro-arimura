@@ -2,4 +2,4 @@
 👀 Estou interessado em novas oportunidades de crescer como um desenvolvedor! Estou em busca de novos desafios, trabalhar com grandes sistemas e desenvolver novas respostas para os problemas que existem!
 🌱 Atualmente estou estudando linguagens de programação para web, desde o React.js até o Angular.js. Estou em busca de me tornar fluente no maior número de linguagens, para poder solucionar problemas de maneiras mais eficientes e simples, sendo úteis para todos os que utilizarem.
 💞️ Estou em busca de colaborar em grandes empresas, fazer a diferença onde quer que eu esteja! Meu maior desejo é utilizar meus conhecimentos de maneira prática, mudando a vida dos usuários!
-📫 Meus contatos são: -> Email: pedroarimura@gmail.com -> WhatsApp: (11) 958519513
+📫 Meus contatos são: -> Email: arimura.dev@gmail.com -> WhatsApp: (11) 95851-9513
